@@ -1,27 +1,31 @@
-## Student Name (or name you would preferred to be called)
+## Brittany Donohoo ("Rose")
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Database 1
 
-- Course 2
+- Entrepreneurial Opportunity Analysis
 
-- Course 3
+- Introduction to Data Science
 
-- Course 4
+- International & Comparative Dimensions of Business
+
+- Law, Public Policy, Negotiation, and Business
+
+- Operations Research
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Reading
 
-- Thing 2
+- Music
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Learning at FL POLY <https://www.floridapoly.edu>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/22
